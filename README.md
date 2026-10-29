@@ -1,5 +1,7 @@
 # Academic Writing Skill
 
+[中文](README_zh.md) | English
+
 A process-based academic writing skill for thesis and research paper guidance, derived from the nine-unit framework of *Successful Writing: Student Book* (2nd ed., 2013, Zou Shen).
 
 ## Overview
@@ -52,6 +54,10 @@ This skill is designed to be used with AI assistants that support custom skills.
 4. Do not invent sources, data, participants, methods, or results
 5. Distinguish direct quotation, paraphrase, summary, interpretation, and the writer's own claim
 6. Prefer diagnosis plus action: tell the user what is wrong, why it matters, and how to fix it
+
+## Installation
+
+Copy the entire `academic-writing/` folder into your skill directory. The exact path depends on your AI assistant platform.
 
 ## License
 
